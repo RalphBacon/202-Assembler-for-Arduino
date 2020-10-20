@@ -14,6 +14,24 @@ Don't worry, I'm not expecting anyone to start writing assembler programs but it
 (Special thanks to Michael Kurt Vogel for compiling this)  
 http://bit.ly/YouTubeVideoList-RalphBacon
 
+--------------------
+INFORMATION RESOUCES
+--------------------
+Description of the Arduino 8-bit and (psuedo) 16-bit registers  
+https://microchipdeveloper.com/8avr:gpr
+
+The ENTIRE assembler language manual (good luck with this one)  
+http://ww1.microchip.com/downloads/en/DeviceDoc/AVR-Instruction-Set-Manual-DS40002198A.pdf
+
+ALL the function attributes eg __attribute__ ((used))  
+https://gcc.gnu.org/onlinedocs/gcc-4.7.2/gcc/Function-Attributes.html
+
+My inspiration for the 10ms loop  
+http://www.rjhcoding.com/avr-asm-delay-subroutine.php  
+
+Common assembler user errors and FAQs  
+https://www.nongnu.org/avr-libc/user-manual/FAQ.html#faq_volatile
+
 -------------
 PRODUCT LINKS
 -------------
