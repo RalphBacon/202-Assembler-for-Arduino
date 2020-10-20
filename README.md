@@ -14,9 +14,9 @@ Don't worry, I'm not expecting anyone to start writing assembler programs but it
 (Special thanks to Michael Kurt Vogel for compiling this)  
 http://bit.ly/YouTubeVideoList-RalphBacon
 
---------------------
-INFORMATION RESOUCES
---------------------
+---------------------
+INFORMATION RESOURCES
+---------------------
 Description of the Arduino 8-bit and (psuedo) 16-bit registers  
 https://microchipdeveloper.com/8avr:gpr
 
