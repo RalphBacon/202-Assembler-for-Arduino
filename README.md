@@ -10,6 +10,9 @@ It's so easy to do write a simple Assembler sketch even beginners will find it s
 
 Don't worry, I'm not expecting anyone to start writing assembler programs but it's so easy you might be tempted just to try it out.
 
+### All about Benny, Best Cat Ever.  
+https://wordpress.com/post/ralphbacon.blog/456
+
 ### List of all my videos
 (Special thanks to Michael Kurt Vogel for compiling this)  
 http://bit.ly/YouTubeVideoList-RalphBacon
